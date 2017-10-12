@@ -21,6 +21,7 @@ var houseSchema = new mongoose.Schema({
     location: String,
     sellerPhoneNumber: String,
     price: Number,
+	priceText: String,
     currency: String,
     isPrivateNeighbourhood: Boolean,
     hasGarden: Boolean,

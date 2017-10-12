@@ -6,9 +6,9 @@ module.exports = {
                 url: {
                     selector: ".mas-info a",
                     attr: "href"
-                }
-            },
-            price: ".contenedor-info strong"
+                },
+				price: ".contenedor-info strong"
+            }
         }
     },
     houseModel: {
